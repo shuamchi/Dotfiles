@@ -1,0 +1,7 @@
+[Default Applications]
+text/x-log=foot.desktop
+text/plain=imv.desktop
+
+[Added Associations]
+text/x-log=foot.desktop;
+text/plain=imv.desktop;
